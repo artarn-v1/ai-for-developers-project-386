@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/artarn-v1/ai-for-developers-project-386/compare/v1.3.0...v1.3.1) (2026-06-18)
+
+
+### Bug Fixes
+
+* add continue-on-error to opencode action step ([313942a](https://github.com/artarn-v1/ai-for-developers-project-386/commit/313942ae5561864932fd01a656a42c639284bccc))
+
 ## [1.3.0](https://github.com/artarn-v1/ai-for-developers-project-386/compare/v1.2.0...v1.3.0) (2026-06-16)
 
 
